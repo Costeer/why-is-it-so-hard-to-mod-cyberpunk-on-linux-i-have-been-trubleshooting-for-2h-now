@@ -9,8 +9,13 @@ fuck...
 
 fixing fucking cyberpunk most fucking anoyng fucking bug
 
-open a terminal in the fucking directory of the fucking cyberpunk.exe  NOT THE /cyberpunk DIRECTORY IT WONT WORK BELIVE ME IVE TRIED 4 TIMES fuck proton db
-and type copy or magick echo '2C45C6: EB' | xxd -r - Cyberpunk2077.exe this into the console thanks proton db
+open a terminal in the fucking directory of the fucking cyberpunk.exe  (NOT THE /cyberpunk DIRECTORY IT WONT WORK BELIVE ME IVE TRIED 4 TIMES (fuck proton db))
+
+and type copy or magick 
+```
+echo '2C45C6: EB' | xxd -r - Cyberpunk2077.exe
+``` 
+into the console (thanks proton db)
 
 congratulations you fixed a bug a AAA studio could not fix!!!!!!!!!!!!!!!!!!!!!
 
